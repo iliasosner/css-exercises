@@ -1,0 +1,31 @@
+/*a light red/pink background, and a list of fonts containing `Verdana` and `DejaVu Sans` with `sans-serif` as a fallback
+* **The second element**: blue text and a font size of 36px */
+
+.odds {
+
+    background-color:rgb(250, 97, 97);
+    font-family: "Veranda","DejaVu",sans-serif;
+}
+
+#one-id {
+
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#two-id {
+
+    background-color: rgba(155, 253, 142, 0.651);
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.smol {
+
+    font-size: 24px;
+}
+
+.bright {
+    background-color: rgb(156, 243, 156);
+
+}
